@@ -7,4 +7,5 @@ const excitedWelcomeMessage = `welcome to flatbook, " + ${currentUser}!`.toUpper
 //const firstInitial = currentUser.charAt(0);
 //const firstInitial = currentUser.substr(0,1);
 const firstInitial = currentUser.substring(0,1);
+//all the above would work.
 const shortGreeting = `Welcome, ${firstInitial}!`;
