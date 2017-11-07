@@ -1,4 +1,4 @@
-# Strings Code-along
+Strings Code-along
 
 ## Overview
 In this code-along, we're going to take a deep dive on strings in JavaScript. We're also going to familiarize ourselves with the structure and flow of the JavaScript labs in the Learn.co curriculum.
