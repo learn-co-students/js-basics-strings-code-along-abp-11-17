@@ -174,7 +174,7 @@ Let's rewrite our `welcomeMessage` to use a template literal:
 ```js
 const currentUser = 'Grace Hopper';
 
-const welcomeMessage = `Welcome to Flatbook, ${currentUser}`;
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}` ;
 ```
 
 The first three tests are still passing, but the fourth wants our `welcomeMessage` to end with an exclamation point. The fix is as simple as adding a `!` as the last character in the template literal:
